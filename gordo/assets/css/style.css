@@ -1,0 +1,17 @@
+table {
+  text-align: center;
+  width: 100%;
+}
+
+label,input {display:block;}
+
+header.primary{}
+
+#content header{}
+
+figure {border:1px solid #000;}
+
+#container, header, footer, section, article, aside{
+  border:1px solid #000;
+  padding:20px;
+}
